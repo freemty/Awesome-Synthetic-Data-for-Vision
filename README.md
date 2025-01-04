@@ -3,21 +3,15 @@ A personal survey of Synthetic Data for Computer Vision
 
 ## Overview
 
-This repository collects the studies on 3D generation currunt progress of Synthetic Datta for computer vision research.
+This repository collects the studies on currunt progress of Synthetic Data for computer vision research.
 <!-- including both [3D shape generation](#3d-shape-generation) and [3D-aware image generation](#3d-aware-image-generation).  -->
 <!-- Different from 3D reconstruction, which focuses on per-instance recovery (*i.e.*, the data already exists in the real world), 3D generation targets learning the real distribution and hence allows sampling new data. -->
 
 Overall, the paper collection is organized as follows. *If you find some work/repo/blog/talk is missing, feel free to raise an issue or create a pull request. We appreciate contributions in any form.*
 
-<!-- - [Insights of Synthetic Data for Vision](#Insights-of-Synthetic-Data-for-Vision)
-  - [Talk](#voxel-1)
-
-- [Synthetic Data Generation](#Synthetic-Data-Generation)
-- [Insights of Synthetic for Vision](#3d-control-of-2d-generative-models)
-  - [Released Datasets](#Released-Datasets)
-  - [Codebase](#Codebase)
-
-- [Synthetic Data Applicatuon](#Synthetic-Data-Application) -->
+- [Insightsn](#Insights)
+- [Datasets]()
+- [Application]()
 
 ## 1. Insights
 
