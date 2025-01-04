@@ -19,30 +19,27 @@ Overall, the paper collection is organized as follows. *If you find some work/re
 
 - [Synthetic Data Applicatuon](#Synthetic-Data-Application) -->
 
-
 ## 1. Insights
 
-<!-- - **[Talk]** **Toward an ImageNet Moment for Synthetic Data**  *[Prof.Jia Deng](https://www.cs.princeton.edu/~jiadeng/)* 2024 [Toutube](https://youtu.be/XuqqZEVinwk?si=AfeUknyEZ707xrPp) -->
+- **[Talk]** **Toward an ImageNet Moment for Synthetic Data** by [Prof.Jia Deng](https://www.cs.princeton.edu/~jiadeng/)
+| [Recording](https://youtu.be/XuqqZEVinwk?si=AfeUknyEZ707xrPp)
 
+- **[Talk]** **N=0: Learning Vision Without Visual Data** by [Prof.Phillip Isola](https://web.mit.edu/phillipi/) | [Slides](https://www.dropbox.com/scl/fi/oc35cb8q8l3tfzyyvgybw/limit_workshop_cvpr2024.pdf?rlkey=mg4zp6etzm087yf2c58ypxexg&dl=0)
 
-- **[Talk]** Toward an ImageNet Moment for Synthetic Data by [Prof.Jia Deng](https://www.cs.princeton.edu/~jiadeng/)<br>
-[Toutube Recording](https://youtu.be/XuqqZEVinwk?si=AfeUknyEZ707xrPp)
+- **[Tutorial]** **Blender pipeline to generate images for deep learning**  | [Youtube](https://youtu.be/1AvY_iS6xQA?si=bi_V8bb3AGiFIE4_)
 
+- **[Tutorial]** **Generating synthetic data for deep learning**  | [Youtube](https://youtu.be/lqbZdTLMyQw?si=DUjdBTtUGZrb_z-Y)
 
-<!-- - **[Talk]** **Scaling Laws of Synthetic Images for Model Training ... for Now**  *[Prof.Jia Deng](https://www.cs.princeton.edu/~jiadeng/)* 2024 [Toutube](https://youtu.be/XuqqZEVinwk?si=AfeUknyEZ707xrPp)
+-  How Far is Video Generation from World Model?
+— A Physical Law Perspective <br>
+  [arxiv](https://arxiv.org/abs/2411.02385) / [Project Page](https://phyworld.github.io/) / [Code](https://github.com/phyworld/phyworld)
 
-
-CVPR 2024 Workshop on
-Representation Learning with Very Limited Images -->
-
-<!-- https://www.youtube.com/watch?v=lqbZdTLMyQw&t=103s -->
-
-<!-- https://www.youtube.com/watch?v=1AvY_iS6xQA -->
-
-<!-- - **[Talk]** **Generating synthetic data for deep learning**  *[Prof.Jia Deng](https://www.cs.princeton.edu/~jiadeng/)* 2024 [Toutube](https://youtu.be/XuqqZEVinwk?si=AfeUknyEZ707xrPp)
+-  Scaling Laws of Synthetic Images for Model Training ... for Now <br>
+  [CVPR 2024](https://arxiv.org/abs/2410.24213) / [Project Page](https://unicorn53547.github.io/video_syn_rep/) / [Code](https://github.com/google-research/syn-rep-learn) / [Youtube](https://www.youtube.com/watch?v=iiXQTR8dXcc)
+<!-- CVPR 2024 Workshop on
+Representation Learning with Very Limited Images 
 
 Synthetic Data for Perception in Autonomous Driving https://www.youtube.com/watch?v=WbOfEz5MKpU -->
-
 
 ## 2. Datasets
 <!-- CLEVR, FlyingThings, MPISintle, CARLA, MegaSynth, LRM-Zero, Hypersim, Kubric, PointOdessy, ParallelDomain, VirtualKITTI -->
@@ -83,7 +80,6 @@ Compositional Language and Elementary Visual Reasoning <br>
 -  **PointOdyssey** A Large-Scale Synthetic Dataset for Long-Term Point Tracking <br>
   [ICCV 2023](https://arxiv.org/abs/2307.15055) / [Project Page](https://pointodyssey.com/) / [Code](https://github.com/y-zheng18/point_odyssey)
 
-
 -  **EgoGen**: An Egocentric Synthetic Data Generator <br>
   [CVPR 2024](https://arxiv.org/abs/2401.08739) / [Project Page](https://ego-gen.github.io/) / [Code](https://github.com/ligengen/EgoGen)
 
@@ -103,11 +99,14 @@ Compositional Language and Elementary Visual Reasoning <br>
 
 <!-- StableRep -->
 
+ -  Learning to See by Looking at Noise <br>
+  [NeurIPS 2021](https://arxiv.org/abs/2106.05963) / [Project Page](https://mbaradad.github.io/learning_with_noise/) / [Code](https://github.com/mbaradad/learning_with_noise)
+
+ -  Procedural Image Programs for Representation Learning <br>
+  [NeurIPS 2022](https://arxiv.org/abs/2211.16412) / [Project Page](https://mbaradad.github.io/learning_with_noise/) / [Code](https://github.com/mbaradad/shaders21k)
+
 -  **StableRep**: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners <br>
   [arxiv 2024](https://arxiv.org/abs/2410.24213) / [Code](https://github.com/google-research/)
-
--  Scaling Laws of Synthetic Images for Model Training ... for Now <br>
-  [CVPR 2024](https://arxiv.org/abs/2410.24213) / [Project Page](https://unicorn53547.github.io/video_syn_rep/) / [Code](https://github.com/google-research/syn-rep-learn) / [Youtube](https://www.youtube.com/watch?v=iiXQTR8dXcc)
 
 -  Learning Vision from Models Rivals Learning Vision from Data <br>
   [CVPR 2024](https://arxiv.org/abs/2410.24213) / [Code](https://github.com/google-research/syn-rep-learn)
@@ -216,7 +215,7 @@ Stereo, and RGB-D Cameras<br>
 <!-- SyncCamMaster, TrajCamMaster, GCD, simgen-->
 
 
-- **SimGen**: Simulator-conditioned Driving Scene Generation<br>
+-  **SimGen**: Simulator-conditioned Driving Scene Generation<br>
   [arxiv 2024](https://arxiv.org/abs/2406.09386) / [Project Page](https://metadriverse.github.io/simgen/) / [Code](https://github.com/metadriverse/SimGen)
 
 -  **Generative Camera Dolly**: Extreme Monocular Dynamic Novel View Synthesis<br>
